@@ -27,7 +27,7 @@ class SessionManager(context: Context) {
         private const val KEY_EMAIL_TERAKHIR = "email_terakhir"
 
         // akun demo
-        const val EMAIL_DEMO = "kelompok4@gmail.com"
+        const val EMAIL_DEMO = "kelompok8@gmail.com"
         const val SANDI_DEMO = "123456"
 
         private const val BATAS_SESSION = 7L * 24L * 60L * 60L * 1000L
